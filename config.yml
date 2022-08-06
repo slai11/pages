@@ -1,0 +1,22 @@
+languageCode: en-us
+title: Growing Pains
+theme: papermod
+params:
+  disableThemeToggle: true
+  defaultTheme: light
+  showReadingTime: true
+  homeInfoParams:
+    Title: Compiling...
+    Content: fragments (short) and articles (long) on various tech-related topics
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/slai11"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/sylvesterchin/"
+
+menu:
+  main:
+    - identifier: tags
+      name: tags
+      url: /tags/

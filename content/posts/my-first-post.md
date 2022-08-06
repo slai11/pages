@@ -1,7 +1,6 @@
 ---
 title: "Leaving Viki"
 date: 2022-08-05T16:31:59+08:00
-draft: true
 tags:
 - fragments
 ---

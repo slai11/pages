@@ -14,6 +14,8 @@ params:
       url: "https://github.com/slai11"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/sylvesterchin/"
+    - name: "gitlab"
+      url: "https://gitlab.com/schin1"
 
 menu:
   main:

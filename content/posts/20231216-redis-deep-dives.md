@@ -1,5 +1,5 @@
 ---
-title: "20231216 Redis Deep Dives"
+title: "Redis Deep Dives"
 date: 2023-12-16T13:38:23+08:00
 ---
 

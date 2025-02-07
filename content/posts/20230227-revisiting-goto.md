@@ -1,5 +1,5 @@
 ---
-title: "20230227 Revisiting Goto"
+title: "Revisiting Goto"
 date: 2023-02-27T13:55:48+08:00
 ---
 

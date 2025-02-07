@@ -1,5 +1,5 @@
 ---
-title: "20240817 Redis Cluster Cron"
+title: "Redis Cluster Cron"
 date: 2024-08-16T22:43:51+08:00
 draft: false
 ---
